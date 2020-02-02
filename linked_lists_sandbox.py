@@ -8,7 +8,7 @@
 	* prepending a node;
 	* reversing the list (2 implementations);
 	* printing the list;
-	* printing the list in a reverse (end ot head) order.
+	* printing the list in a reverse (end to head) order.
 	
     main() is using the above classes to create a list with 3 nodes, prepends
 	one more node, prints the list, reverses the list, prints it second time,
